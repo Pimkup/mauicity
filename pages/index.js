@@ -11,10 +11,13 @@ export default function Home() {
       </Head>
 
       <main>
-        <Header title="Welcome to my app!" />
+        <Header title="Welcome to MauiCity!" />
         <p className="description">
-          Get started by editing <code>pages/index.js</code>
+          Let Join We
         </p>
+        <a href="www.discord.io/mauicity
+          MauiCity Discord
+        </a>
       </main>
 
       <Footer />
